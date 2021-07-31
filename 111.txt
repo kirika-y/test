@@ -1,3 +1,4 @@
 1111
 changed
 repoAでテキスト追加したよ
+repoAのfeatureブランチでテキスト追加したよ。
