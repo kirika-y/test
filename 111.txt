@@ -1,4 +1,5 @@
 1111
 changed
+repoBのfeatureブランチでテキスト追加。
 repoAでテキスト追加したよ
 repoAのfeatureブランチでテキスト追加したよ。
